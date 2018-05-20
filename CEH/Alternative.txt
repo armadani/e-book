@@ -1,0 +1,49 @@
+CEC-Council's Certified Ethical Hacker
+
+1 Reconnaissance/Footprinting :
+ https://www.mediafire.com/file/5tex1gndiis0rz3/Reconnaissance+-+Footprinting.rar
+
+2 SQL Injection :
+ https://www.mediafire.com/file/1bap7hf82clm9dy/SQL+Injection.rar
+
+3 Scanning Networks : 
+ https://www.mediafire.com/file/22t74lyof149u41/Scanning+networks.rar
+
+4 Enumeration : 
+ https://www.mediafire.com/file/22t74lyof149u41/Scanning+networks.rar
+
+5 Hacking Web Servers :
+ https://www.mediafire.com/file/g4di658xb9stz8g/Pentesting+Web+Servers.rar
+
+6 Hacking Web Applications
+ https://www.mediafire.com/file/waqslt6jhk6ph1a/Pentesting+Web+Applications.rar
+
+7 Cryptography 
+ https://www.mediafire.com/file/1cujirp51m911k8/Cryptography.rar
+
+8 Sniffing
+ https://www.mediafire.com/file/fzbq3zzzqspzw15/Sniffing.rar
+
+9 Session Hijacking
+ https://www.mediafire.com/file/5irzrhub4r6mva3/Session+Hijacking.rar
+
+10 Social Engineering
+ https://www.mediafire.com/file/2xqgt9g7044n683/Social+Engineering.rar
+
+11 System Hacking 
+ https://www.mediafire.com/file/zf2d20969azd887/System+hacking.rar
+
+12 DoS Attack 
+ https://www.mediafire.com/file/x5zxdvv1h3k54nk/Denial+of+Service.rar
+
+13 Hacking Wireless Networks
+ https://www.mediafire.com/file/r9hrz8zotis74f1/Hacking+wireless+networks.rar
+
+14 Malware Threats
+ https://www.mediafire.com/file/8caooodccdnc608/Malware+threats.rar
+
+15 Evading IDS, Firewalls, and Honeypots 
+ https://www.mediafire.com/file/33z5epburhu1xgy/Evading+IDS%2C+Firewalls%2C+and+Honeypots.rar
+
+16 Hacking Mobile Platforms 
+ https://www.mediafire.com/file/l45v3ne52qr9llw/Mobile+platforms.rar
